@@ -54,7 +54,3 @@ A ideia do jogo de xadrez foi proposta por mim durante o desafio, enquanto a imp
 O projeto proporcionou contato com conceitos de desenvolvimento de interfaces interativas, manipulação do DOM, eventos e lógica de programação em JavaScript.
 
 Também serviu como experiência para compreender como a Inteligência Artificial pode ser utilizada como ferramenta de apoio durante o desenvolvimento.
-
-## Próximos passos
-
-Pretendo revisar o código do projeto para compreender melhor sua implementação e futuramente reconstruir partes da aplicação de forma independente.
