@@ -10,7 +10,7 @@ A ideia do projeto surgiu como uma proposta de criar um jogo de xadrez que pudes
 
 A aplicação possui uma interface interativa e foi desenvolvida para permitir a movimentação das peças e o acompanhamento da partida diretamente pelo navegador.
 
-A implementação do código contou com o uso de **Inteligência Artificial como ferramenta de apoio ao desenvolvimento**. O projeto também foi utilizado como oportunidade para explorar funcionalidades de JavaScript e desenvolvimento de interfaces interativas.
+A implementação do código contou com o uso de **Inteligência Artificial como ferramenta ao desenvolvimento**. O projeto também foi utilizado como oportunidade para explorar funcionalidades de JavaScript e desenvolvimento de interfaces interativas.
 
 ## Funcionalidades
 
